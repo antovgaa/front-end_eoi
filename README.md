@@ -48,3 +48,4 @@ Soy Zeida, desarrolladora Full-Stack con un objetivo claro: ¡dominar el Front-E
 Este repositorio seguirá creciendo y mejorando con el tiempo. Si tienes algún consejo, sugerencia, o simplemente quieres compartir una palabra de aliento, ¡eres más que bienvenido(a) a hacerlo!
 
 --- 
+vaya cosa mas pro
